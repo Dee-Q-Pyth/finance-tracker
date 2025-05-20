@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "D:\\Anaconda\\envs\\first_project\\python.exe"
+  "terminal.integrated.cwd": "D:\\Python_start\\first_git_project"
+}
