@@ -6,3 +6,4 @@ __pycache__/
 .DS_Store
 id_rsa
 id_rsa.pub
+finance.db 
